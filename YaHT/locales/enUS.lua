@@ -11,7 +11,8 @@ AceLocale:RegisterTranslations("enUS", function()
 		["Show 'Aimed Shot' in the castbar"] = "Show 'Aimed Shot' in the castbar",
 		["Multi-Shot in castbar"] = "Multi-Shot in castbar",
 		["Show 'Multi-Shot' in the castbar"] = "Show 'Multi-Shot' in the castbar",
-        ["Show 'Trueshot' in the castbar"] = "Show 'Trueshot' in the castbar",
+		["Steady Shot in castbar"] = "Steady Shot in castbar",
+        ["Show 'Steady Shot' in the castbar"] = "Show 'Steady Shot' in the castbar",
 		["Timer Color"] = "Timer Color",
 		["Set the color of the timer between shots"] = "Set the color of the timer between shots",
 		["Draw Color"] = "Draw Color",
@@ -48,7 +49,7 @@ AceLocale:RegisterTranslations("enUS", function()
 		
 		["Aimed Shot"] = "Aimed Shot",
 		["Multi-Shot"] = "Multi-Shot",
-        ["Trueshot"] = "Trueshot",
+        ["Steady Shot"] = "Steady Shot",
 		["Serpent Sting"] = "Serpent Sting",
 		["Arcane Shot"] = "Arcane Shot",
 		["Concussive Shot"] = "Concussive Shot",
